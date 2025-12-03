@@ -1,1 +1,2 @@
 hello-world
+proget.inedo.com/productimages/inedo/proget:24.0.5
