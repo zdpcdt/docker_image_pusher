@@ -1,4 +1,5 @@
 hello-world
 proget.inedo.com/productimages/inedo/proget:24.0.5
 proget.inedo.com/productimages/inedo/proget:25.0.15
+proget.inedo.com/productimages/inedo/proget:25.0.16
 alpine:3.23.0
